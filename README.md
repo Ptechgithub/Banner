@@ -6,15 +6,15 @@
 
 + ```pkg update && pkg upgrade```
 + ```pkg install git -y```
-+ ```git clone https://github.com/Ptechgithub/BannerX.git```
-+ ```cd BannerX```
++ ```git clone https://github.com/Ptechgithub/Banner.git```
++ ```cd Banner```
 + ```chmod +x *```
 + ```bash setup.sh```
 + ```exit```
 
 ## Single line command
 ```
-pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/Ptechgithub/BannerX.git && cd BannerX && chmod +x * && bash setup.sh && exit
+pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/Ptechgithub/Banner.git && cd Banner && chmod +x * && bash setup.sh && exit
 ```
 ## Follow US:
 
